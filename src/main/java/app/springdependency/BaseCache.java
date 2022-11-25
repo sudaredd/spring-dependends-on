@@ -1,6 +1,6 @@
 package app.springdependency;
 
-import javax.annotation.PostConstruct;
+import jakarta.annotation.PostConstruct;
 import java.util.List;
 
 public abstract class BaseCache {
